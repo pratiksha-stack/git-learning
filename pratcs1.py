@@ -12,7 +12,7 @@ class Society:
     def findAverageheight(self):
         result = []
         for i in self.personslist:
-            l.append(i.height)
+            result.append(i.height)
         return sum(result)/len(result)
 
     def findTallerThanAverageperson(self):

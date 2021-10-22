@@ -1,0 +1,16 @@
+////////  Git learning from scrach
+Download git cli in computer(Git bash)
+create account on github
+
+// if any folder want to store git project ,right click to tht folder snd open with gi ash
+
+//git status   - commitet files, uncommintet files
+//git add index.html  - add to modified area( do commit)
+
+//git config --global user.email pratikshadere96@gmail.com   - giving my email to git
+//git config --global user.name   -my name to known identity
+//touch tcs2.py   - creat new file in vs code
+ 
+ 
+
+
