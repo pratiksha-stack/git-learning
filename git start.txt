@@ -10,6 +10,7 @@ create account on github
 //git config --global user.email pratikshadere96@gmail.com   - giving my email to git
 //git config --global user.name   -my name to known identity
 //touch tcs2.py   - creat new file in vs code
+/ git add -A = it adds all file from folder to git 
  
  
 
