@@ -10,7 +10,18 @@ create account on github
 //git config --global user.email pratikshadere96@gmail.com   - giving my email to git
 //git config --global user.name   -my name to known identity
 //touch tcs2.py   - creat new file in vs code
-/ git add -A = it adds all file from folder to git 
+/ git add -A = it adds all file from folder to git
+// git checkout tcs1.py   = pervious file code will recover if it lost
+// git checkout -f ==all file recover 
+//git log  = all details done
+//git diff  = compare changes in working direcorty to staging area
+//git rm  =delet file 
+//git rm --cached index.html= delet only from staging area not all
+//git status -s = it will shown changes done in local folder and in stage area (MM)
+// it we want to ignore some file not to add in repository use 
+create .gitignore  file and add all extention to which we want to ignore
+
+
  
  
 
