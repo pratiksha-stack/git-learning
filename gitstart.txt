@@ -1,0 +1,59 @@
+////////  Git learning from scrach
+Download git cli in computer(Git bash)
+create account on github
+
+// if any folder want to store git project ,right click to tht folder snd open with gi ash
+
+//git status   - commitet files, uncommintet files
+//git add index.html  - add to modified area( do commit)
+
+//git config --global user.email pratikshadere96@gmail.com   - giving my email to git
+//git config --global user.name   -my name to known identity
+//touch tcs2.py   - creat new file in vs code
+/ git add -A = it adds all file from folder to git
+// git checkout tcs1.py   = pervious file code will recover if it lost
+// git checkout -f ==all file recover 
+//git log  = all details done
+//git diff  = compare changes in working direcorty to staging area
+//git rm  =delet file 
+//git rm --cached index.html= delet only from staging area not all
+//git status -s = it will shown changes done in local folder and in stage area (MM)
+// it we want to ignore some file not to add in repository use 
+create .gitignore  file and add all extention to which we want to ignore
+
+//git branch = check how many branches there
+//git branch local = create new branch name local
+git checkout local  = switch to local branch 
+//git merge local = it will merge to master btranch
+
+//setting git and github
+create ssh key as per document in github
+if origin not found ,add origin 
+>git commit
+>git push origin master  =it will push ll code to master
+
+git branch funcativity    ==created new branch on github
+git push -u origin funcoding   =it will push all file to anotehr branch funcativity
+
+//steps for adding any file to branch
+
+1. git add filename.extention
+2.git commit -m "type some commit"
+3.git push origin (branch name)
+end
+
+//updating new code in same file through git
+git add filename
+git commit -m "Any commitm msg"    = most imp step
+git push origin branchname
+
+
+//if one window pop up enter comments in uper line
+then press esc
+at bottom type :wq
+
+
+ 
+ 
+
+
